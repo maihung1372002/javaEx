@@ -223,7 +223,7 @@ public class Lab2 {
         return true;
     }
 
-    
+
 
 
 
@@ -231,8 +231,6 @@ public class Lab2 {
         Scanner scanner = new Scanner(System.in);
         int [] arr = {1,2,3,4,5,5};
         arrayToString(arr);
-
-
 
 
         scanner.close();
