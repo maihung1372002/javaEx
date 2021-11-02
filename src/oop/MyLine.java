@@ -1,8 +1,8 @@
 package oop;
 
 public class MyLine {
-    private MyPoint begin; 
-    private MyPoint end; 
+    private MyPoint begin = new MyPoint(); 
+    private MyPoint end = new MyPoint(); 
 
     // contructors
     public MyLine(int x1, int y1, int x2, int y2) {
