@@ -9,7 +9,7 @@ public class Invoice {
         this.id = id;
         this.customer = customer;
         this.amount = amount;
-    }
+    } 
 
     // getter 
     public int id() {

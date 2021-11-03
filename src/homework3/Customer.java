@@ -25,7 +25,7 @@ public class Customer {
     public void setDiscount(int discount) {
         this.discount = discount;
     }
-
+ 
     public String toString() {
         return name + "(" + id + ")" + "(" + discount + "%)";
     }
