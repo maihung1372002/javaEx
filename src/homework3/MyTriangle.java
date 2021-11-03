@@ -1,4 +1,4 @@
-package oop;
+package homework3;
 
 public class MyTriangle {
     private MyPoint v3 = new MyPoint();

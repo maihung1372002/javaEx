@@ -1,4 +1,4 @@
-package oop;
+package homework3;
 
 public class MyCircle {
     private MyPoint center = new MyPoint(0, 0);

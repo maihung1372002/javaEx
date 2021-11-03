@@ -1,4 +1,4 @@
-package oop;
+package homework3;
 
 public class Ball {
     private float x;

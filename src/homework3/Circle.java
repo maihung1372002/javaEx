@@ -1,4 +1,4 @@
-package oop;
+package homework3;
 
 public class Circle {
     private double radius = 1.0;

@@ -1,4 +1,4 @@
-package oop;
+package homework3;
 
 public class Rectangle {
     private float length = 1.0f;
