@@ -30,7 +30,7 @@ public class Time {
     }
     public void setMinute(int minute) {
         this.minute = minute;
-    }
+    } 
     public void setSecond(int second) {
         this.second = second;
     }

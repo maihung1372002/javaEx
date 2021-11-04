@@ -1,4 +1,5 @@
 package homework3;
+
 public class InvoiceItem {
     private String id;
     private String desc;
@@ -39,8 +40,8 @@ public class InvoiceItem {
     }
     public String toString() {
         return "InvoiceItem[id = " + id +
-        ", desc = " + desc +
-        ", qty = " + qty +
-        ", unitPrice = " + unitPrice + "]";
+            ", desc = " + desc +
+            ", qty = " + qty +
+            ", unitPrice = " + unitPrice + "]";
     }
 }
